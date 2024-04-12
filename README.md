@@ -1,2 +1,2 @@
 # M.store
-HTml and Css Template
+Html and Css template
